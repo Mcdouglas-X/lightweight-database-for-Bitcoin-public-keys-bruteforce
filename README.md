@@ -43,7 +43,7 @@ Low_m= 23
 
 We have a huge database, with little disk space.
 
-Because there is no sequence between even and odd pubkeys we can set a collision margin of 24bits,Second Check was added to avoid false positives.  
+There is no sequence between even and odd pubkeys we can set a custom collision margin of 24 bits, Second Check was added to avoid false positives.  
 the probability of finding false positives decreasesis zero.
 
 
